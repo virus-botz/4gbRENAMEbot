@@ -20,19 +20,19 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/HxBots'>HxBots</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/Kirodewal'>Kirodewal</a>
+<b>📢 Channel :</b> <a href='https://t.me/VIRUS_BOTZ'>VIRUS BOTZ</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/MRVIRUS02'>會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』</a>
 
-<b>♻️ Bot Made By :</b> @HxBots"""
+<b>♻️ Bot Made By :</b> @Virus_Botz"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>hxbots@sbi</code> 
+<b>🛍 UPI ID:</b> <code>Contact @MrVirus02</code> 
 
-<b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
+<b>📸 Send Screenshot After Donation To @RolexLeoDas To Activate Your Premium Plan </b> """
 
     ADMIN_TXT = """<b><u>🦋 ADMIN ALL COMMANDS HERE</u></b>
 
