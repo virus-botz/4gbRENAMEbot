@@ -39,11 +39,11 @@ async def start(client, message):
     await message.reply_photo(photo=BOT_PIC,
                                 caption=txt,
                                 reply_markup=InlineKeyboardMarkup(
-                                        [[InlineKeyboardButton("📢 Updates", url="https://t.me/HxBots"),
-                                        InlineKeyboardButton("💬 Support", url="https://t.me/HxSupport")],
+                                        [[InlineKeyboardButton("📢 Updates", url="https://t.me/Virus_Botz"),
+                                        InlineKeyboardButton("💬 Support", url="https://t.me/VIRUS_BOTZ_SUPPORT_GROUP")],
                                         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
 				                        InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                                        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/Kirodewal")]
+                                        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/MrVirus02")]
                                         ]))
     return
 
@@ -133,7 +133,7 @@ async def send_doc(client, message):
             if buy_date:
                 pre_check = check_expi(buy_date)
                 if pre_check == False:
-                    uploadlimit(message.from_user.id, 2147483648)
+                    uploadlimit(message.from_user.id, 2057170163)
                     usertype(message.from_user.id, "Free")
             
             filesize = humanize.naturalsize(file.file_size)
