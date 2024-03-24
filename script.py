@@ -16,14 +16,15 @@ class script(object):
 <b>⦿ /viewthumb - Use This Command To See Your Thumbnail</b>
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
-    ABOUT_TXT = """<b>🤖 My Name : {}
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/VIRUS_BOTZ'>VIRUS BOTZ</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/MRVIRUS02'>會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』</a>
-
-<b>♻️ Bot Made By :</b> @Virus_Botz"""
+    ABOUT_TXT = = """<b>╭───────────⍟
+├🤖 ᴍy ɴᴀᴍᴇ : {}
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Virus_Botz>會๛『 𝗩𝗜𝗥𝗨𝗦 𝗕𝗢𝗧𝗭 』</a> 
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Virus_Studios>會๛『 𝗩𝗜𝗥𝗨𝗦 𝗦𝗧𝗨𝗗𝗜𝗢𝗦 』</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Heroku</a>
+╰───────────────⍟ """
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
