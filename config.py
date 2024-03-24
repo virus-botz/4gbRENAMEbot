@@ -14,7 +14,7 @@ DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
 
 STRING = os.environ.get("STRING", "")
-BOT_PIC = os.environ.get("BOT_PIC", "https://telegra.ph/file/3dfd1d98cacbc408bf9b4.jpg")
+BOT_PIC = os.environ.get("BOT_PIC", "")
 
 
 
