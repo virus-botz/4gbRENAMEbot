@@ -16,7 +16,7 @@ class script(object):
 <b>⦿ /viewthumb - Use This Command To See Your Thumbnail</b>
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
-    ABOUT_TXT = """<b>🤖 My Name : </b> {}
+    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/DEADPOOL_RENAME_BOT'>𝕯𝖊𝖆𝖉𝖕𝖔𝖔𝖑 𝕽𝖊𝖓𝖆𝖒𝖊 𝕭𝖔𝖙</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
