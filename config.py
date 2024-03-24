@@ -7,7 +7,7 @@ API_HASH = os.environ.get("API_HASH", "34d8c9887fe445c1dac2228cbdf9ab48")
 OWNER = int(os.environ.get("OWNER", "2057170163"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "DEADPOOL_RENAME_BOT")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "VIRUS_BOTZ")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1001402115130")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
 
 DB_URL = os.environ.get("DB_URL", "")
