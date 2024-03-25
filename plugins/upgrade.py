@@ -7,57 +7,57 @@ async def upgrade(bot,update):
 	Daily  Upload limit 2GBGB
 	Price 0
 	
-	**🪙 Basic** 
+	**🥉 Basic** 
 	Daily  Upload  limit 20GB
-	Price Rs 49  ind /🌎 0.59$  per Month
+	Price Rs 30  ind /🌎 0.40$  per Month
 	
-	**⚡ Standard**
+	**🥇 Standard**
 	Daily Upload limit 50GB
-	Price Rs 99  ind /🌎 1.19$  per Month
+	Price Rs 65  ind /🌎 0.80$  per Month
 	
-	**💎 Pro**
+	**🏅 Pro**
 	Daily Upload limit 100GB
-	Price Rs 179  ind /🌎 2.16$  per Month
+	Price Rs 129  ind /🌎 1.5$  per Month
 	
 	
-	Pay Using Upi I'd `hxbots@sbi`
+	For Pay Using Upi I'd `Contact- @RolexLeoDas`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @RolexLeoDas"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/kirodewal")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/Hxbots@sbi"),
-        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/Hxbots@sbi")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("👨‍💻 Admin",url = "https://t.me/RolexLeoDas")], 
+        			[InlineKeyboardButton("📢 Channel",url = "https://t.me/Virus_Botz"),
+        			InlineKeyboardButton("💬 Group",url = "https://t.me/VIRUS_BOTZ_SUPPORT_GROUP")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
 @Client.on_message(filters.private & filters.command(["upgrade"]))
 async def upgradecm(bot,message):
 	text = """**Free Plan User**
-	Daily  Upload limit 2GB
+	Daily  Upload limit 2GBGB
 	Price 0
 	
-	**🪙 Basic** 
+	**🥉 Basic** 
 	Daily  Upload  limit 20GB
-	Price Rs 49  ind /🌎 0.59$  per Month
+	Price Rs 30  ind /🌎 0.40$  per Month
 	
-	**⚡ Standard**
+	**🥇 Standard**
 	Daily Upload limit 50GB
-	Price Rs 99  ind /🌎 1.19$  per Month
+	Price Rs 65  ind /🌎 0.80$  per Month
 	
-	**💎 Pro**
+	**🏅 Pro**
 	Daily Upload limit 100GB
-	Price Rs 179  ind /🌎 2.16$  per Month
+	Price Rs 129  ind /🌎 1.5$  per Month
 	
 	
-	Pay Using Upi I'd `HxBots@sbi`
+	For Pay Using Upi I'd `Contact- @RolexLeoDas`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @RolexLeoDas"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/kirodewal")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/Hxbots@sbi"),
-        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/Hxbots@sbi")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("👨‍💻 Admin",url = "https://t.me/RolexLeoDas")], 
+        			[InlineKeyboardButton("📢 Channel",url = "https://t.me/Virus_Botz"),
+        			InlineKeyboardButton("💬 Group",url = "https://t.me/VIRUS_BOTZ_SUPPORT_GROUP")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
 
